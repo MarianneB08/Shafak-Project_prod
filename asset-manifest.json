@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7af31939.css",
-    "main.js": "/static/js/main.2c823fc1.js",
+    "main.js": "/static/js/main.36a203f8.js",
     "static/media/background_video.mp4": "/static/media/background_video.8727784bd759a30fafd3.mp4",
     "static/media/error_background.jpg": "/static/media/error_background.02696eebc8896421d6b4.jpg",
     "static/media/portrait_Margot.jpg": "/static/media/portrait_Margot.87d726d21633f412691b.jpg",
     "static/media/portrait_Larbi.jpg": "/static/media/portrait_Larbi.57a0ba8270b223ee93e8.jpg",
     "index.html": "/index.html",
     "main.7af31939.css.map": "/static/css/main.7af31939.css.map",
-    "main.2c823fc1.js.map": "/static/js/main.2c823fc1.js.map"
+    "main.36a203f8.js.map": "/static/js/main.36a203f8.js.map"
   },
   "entrypoints": [
     "static/css/main.7af31939.css",
-    "static/js/main.2c823fc1.js"
+    "static/js/main.36a203f8.js"
   ]
 }
